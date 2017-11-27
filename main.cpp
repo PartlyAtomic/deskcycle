@@ -33,7 +33,6 @@ private:
     int get_audio_device()
     {
         auto num_devices = SDL_GetNumAudioDevices(1);
-        std::cout << num_devices << " inputs" << std::endl;
         for (auto i = 0; i < num_devices; ++i) {
             std::cout << i << ": " << SDL_GetAudioDeviceName(i, 1) << std::endl;
         }
