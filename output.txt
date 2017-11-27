@@ -1,0 +1,71 @@
+0: FrontMic (Realtek High Definition Audio)
+1: Line In (Realtek High Definition Audio)
+2: Microphone (Steam Streaming Microphone)
+Which audio device?1
+ 1
+Calibrating: do not pedal
+............................
+Calibration complete: start pedalling
+24 feet (0.00 miles) @ 0.79 mph
+75 feet (0.01 miles) @ 20.92 mph
+116 feet (0.02 miles) @ 29.23 mph
+151 feet (0.03 miles) @ 24.11 mph
+207 feet (0.04 miles) @ 35.65 mph
+273 feet (0.05 miles) @ 50.21 mph
+335 feet (0.06 miles) @ 47.19 mph
+399 feet (0.08 miles) @ 37.85 mph
+474 feet (0.09 miles) @ 52.13 mph
+543 feet (0.10 miles) @ 47.04 mph
+619 feet (0.12 miles) @ 53.30 mph
+667 feet (0.13 miles) @ 37.44 mph
+720 feet (0.14 miles) @ 37.66 mph
+774 feet (0.15 miles) @ 37.44 mph
+834 feet (0.16 miles) @ 37.48 mph
+899 feet (0.17 miles) @ 47.04 mph
+952 feet (0.18 miles) @ 35.73 mph
+1022 feet (0.19 miles) @ 51.70 mph
+1092 feet (0.21 miles) @ 46.56 mph
+1158 feet (0.22 miles) @ 51.62 mph
+1218 feet (0.23 miles) @ 50.21 mph
+1265 feet (0.24 miles) @ 38.48 mph
+1317 feet (0.25 miles) @ 37.47 mph
+1364 feet (0.26 miles) @ 35.12 mph
+1412 feet (0.27 miles) @ 30.10 mph
+1468 feet (0.28 miles) @ 37.61 mph
+1521 feet (0.29 miles) @ 36.65 mph
+1568 feet (0.30 miles) @ 29.51 mph
+1623 feet (0.31 miles) @ 35.61 mph
+1677 feet (0.32 miles) @ 35.76 mph
+1686 feet (0.32 miles) @ 14.70 mph
+1701 feet (0.32 miles) @ 14.70 mph
+1702 feet (0.32 miles) @ 14.70 mph
+1709 feet (0.32 miles) @ 6.17 mph
+1718 feet (0.33 miles) @ 6.17 mph
+1735 feet (0.33 miles) @ 8.05 mph
+1748 feet (0.33 miles) @ 8.72 mph
+1761 feet (0.33 miles) @ 8.72 mph
+1779 feet (0.34 miles) @ 10.51 mph
+1796 feet (0.34 miles) @ 11.30 mph
+1813 feet (0.34 miles) @ 11.30 mph
+1830 feet (0.35 miles) @ 11.29 mph
+1849 feet (0.35 miles) @ 12.40 mph
+1899 feet (0.36 miles) @ 28.28 mph
+1944 feet (0.37 miles) @ 29.93 mph
+2010 feet (0.38 miles) @ 53.46 mph
+2061 feet (0.39 miles) @ 37.44 mph
+2122 feet (0.40 miles) @ 49.73 mph
+2167 feet (0.41 miles) @ 29.40 mph
+2223 feet (0.42 miles) @ 38.44 mph
+2276 feet (0.43 miles) @ 35.85 mph
+2330 feet (0.44 miles) @ 35.77 mph
+2377 feet (0.45 miles) @ 35.72 mph
+2424 feet (0.46 miles) @ 29.56 mph
+2481 feet (0.47 miles) @ 37.52 mph
+2524 feet (0.48 miles) @ 28.86 mph
+2573 feet (0.49 miles) @ 30.18 mph
+2597 feet (0.49 miles) @ 20.88 mph
+2599 feet (0.49 miles) @ 20.88 mph
+2599 feet (0.49 miles) @ 20.88 mph
+2599 feet (0.49 miles) @ 20.88 mph
+2598 feet (0.49 miles) @ 20.88 mph
+60 seconds without update, quitting
